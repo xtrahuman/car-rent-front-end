@@ -24,7 +24,7 @@ Kaban Before                             |  Kaban After
 
 
 ## Front-end Live Demo
-> Click [here](https://mic-car-rental.netlify.app/) to see the live preview of the project.
+> Click [here](car-rental-group.netlify.app) to see the live preview of the project.
 
 > [link to Backend](https://github.com/Taher-web-dev/car-rent-rails)
 
